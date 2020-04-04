@@ -6,5 +6,5 @@ This project is aim to understand the results of an A/B test run by an e-commerc
 The project requires Jupyter Notebook.
 
 #### __Resource__
-ab_data.csv
+ab_data.csv <br />
 countries.csv
